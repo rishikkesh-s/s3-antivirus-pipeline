@@ -73,19 +73,19 @@ To verify the pipeline, two files were uploaded:
 
 ## Upload Bucket
 
-![Upload Bucket](screenshots/upload_bucket.png)
+![Upload Bucket](Screenshots/upload_bucket.png)
 
 ## Lambda Execution Logs
 
-![CloudWatch Logs](screenshots/cloudwatch_log2.png)
+![CloudWatch Logs](Screenshots/cloudwatch_log2.png)
 
 ## Clean Bucket
 
-![Clean Bucket](screenshots/clean_bucket.png)
+![Clean Bucket](Screenshots/clean_bucket.png)
 
 ## Quarantine Bucket
 
-![Quarantine Bucket](screenshots/quarantine_bucket.png)
+![Quarantine Bucket](Screenshots/quarantine_bucket.png)
 
 The system successfully scanned both files and automatically sorted them into the correct buckets.
 
