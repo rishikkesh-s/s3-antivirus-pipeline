@@ -77,7 +77,7 @@ To verify the pipeline, two files were uploaded:
 
 ## Lambda Execution Logs
 
-![CloudWatch Logs](Screenshots/cloudwatch_log2.png)
+![CloudWatch Logs](Screenshots/Cloudwatch_log2.png)
 
 ## Clean Bucket
 
