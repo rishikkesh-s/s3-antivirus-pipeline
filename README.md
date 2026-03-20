@@ -116,7 +116,7 @@ All scan results are logged in **AWS CloudWatch**, providing visibility for:
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/s3-antivirus-pipeline.git
+git clone https://github.com/rishikkesh-s/s3-antivirus-pipeline.git
 ```
 
 ## 2. Build the Docker image
